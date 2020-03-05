@@ -1,0 +1,32 @@
+[{
+        "icon": "american-football",
+        "name": "Comunicados",
+        "redirectTo": "/home"
+    }, {
+        "icon": "appstore",
+        "name": "Datos Personales",
+        "redirectTo": "/cuenta"
+    },
+    {
+        "icon": "beaker",
+        "name": "Vacaciones",
+        "redirectTo": "/vacaciones"
+    },
+    {
+        "icon": "radio-button-on",
+        "name": "Solicitudes",
+        "redirectTo": "/solicitudes"
+    },
+    {
+        "icon": "card",
+        "name": "Nomina",
+        "redirectTo": "/nomina"
+    },
+    {
+        "icon": "checkmark-circle-outline",
+        "name": "Salir",
+        "redirectTo": "/logout"
+    }
+
+
+]
